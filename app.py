@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 import keras
 
-model=keras.models.load_model(r'C:\Users\sovan dash\PycharmProjects\melanoma_using_cnn\meloma_cnn\melanoma.h5')
+model=keras.models.load_model(r'C:\\Users\\sovan dash\\PycharmProjects\\melanoma_using_cnn\\meloma_cnn\\melanoma.h5')
 
 
 
