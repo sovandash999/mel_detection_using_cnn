@@ -1,2 +1,1 @@
-venv
-melanoma.h5
+venv/
